@@ -335,7 +335,7 @@
     "data" : [
         {
             "url" : "",
-            "urlimg" : "https://www.dau.edu/training/PublishingImages/DAU%20Images/click%20here.png",
+            "urlimg" : "",
             "name" : "About Sigma",
             "img1" : "https://modcombo.com/uploads/2022/11/sigma-apk.jpg",
             "img2" : "https://modcombo.com/uploads/2022/11/sigma-free-fire.jpg",
@@ -344,7 +344,7 @@
         },
         {
             "url" : "",
-            "urlimg" : "https://www.dau.edu/training/PublishingImages/DAU%20Images/click%20here.png",
+            "urlimg" : "",
             "name" : "Homer",
             "img1" : "https://www.insidesport.in/wp-content/uploads/2022/12/M.jpeg",
             "img2" : "https://www.insidesport.in/wp-content/uploads/2022/12/gam.jpeg?resize=1024,543",
@@ -354,7 +354,7 @@
         
         {
             "url" : "",
-            "urlimg" : "https://img.icons8.com/external-bearicons-outline-color-bearicons/80/000000/external-click-frequently-asked-questions-faq-bearicons-outline-color-bearicons.png",
+            "urlimg" : "",
             "name" : "Kenta",
             "img1" : "https://sigmabattleroyale.link/wp-content/uploads/2022/11/sigma-battle-royale-v7.jpg",
             "img2" : "https://sigmabattleroyale.link/wp-content/uploads/2022/11/sigma-battle-royale-v9.jpg",
@@ -363,7 +363,7 @@
         },
         {
             "url" : "",
-            "urlimg" : "https://www.dau.edu/training/PublishingImages/DAU%20Images/click%20here.png",
+            "urlimg" : "",
             "name" : "Nairi",
             "img1" : "https://sigmabattleroyale.link/wp-content/uploads/2022/11/sigma-battle-royale-v10.jpg",
             "img2" : "https://sigmabattleroyale.link/wp-content/uploads/2022/11/sigma-battle-royale-v11.png",
@@ -372,7 +372,7 @@
         },
         {
             "url" : "",
-            "urlimg" : "https://www.dau.edu/training/PublishingImages/DAU%20Images/click%20here.png",
+            "urlimg" : "",
             "name" : "Otho",
             "img1" : "https://sigmabattleroyale.link/wp-content/uploads/2022/11/sigma-battle-royale-v9.jpg",
             "img2" : "https://sigmabattleroyale.link/wp-content/uploads/2022/11/sigma-battle-royale-v10.jpg",
@@ -381,7 +381,7 @@
         },
         {
             "url" : "",
-            "urlimg" : "https://www.dau.edu/training/PublishingImages/DAU%20Images/click%20here.png",
+            "urlimg" : "",
             "name" : "Leon",
             "img1" : "https://raw.githubusercontent.com/leverpo/leverpo.github.io/main/guide%20image/12.png",
             "img2" : "https://raw.githubusercontent.com/leverpo/leverpo.github.io/main/guide%20image/11.png",
@@ -390,7 +390,7 @@
         },
         {
             "url" : "",
-            "urlimg" : "https://www.dau.edu/training/PublishingImages/DAU%20Images/click%20here.png",
+            "urlimg" : "",
             "name" : "K",
             "img1" : "https://raw.githubusercontent.com/leverpo/leverpo.github.io/main/guide%20image/14.png",
             "img2" : "https://raw.githubusercontent.com/leverpo/leverpo.github.io/main/guide%20image/13.png",
@@ -399,7 +399,7 @@
         },
         {
             "url" : "",
-            "urlimg" : "https://www.dau.edu/training/PublishingImages/DAU%20Images/click%20here.png",
+            "urlimg" : "",
             "name" : "rafael",
             "img1" : "https://raw.githubusercontent.com/leverpo/leverpo.github.io/main/guide%20image/16.png",
             "img2" : "https://raw.githubusercontent.com/leverpo/leverpo.github.io/main/guide%20image/15.png",
@@ -408,7 +408,7 @@
         },
         {
             "url" : "",
-            "urlimg" : "https://www.dau.edu/training/PublishingImages/DAU%20Images/click%20here.png",
+            "urlimg" : "",
             "name" : "Alvaro",
             "img1" : "https://raw.githubusercontent.com/leverpo/leverpo.github.io/main/guide%20image/18.png",
             "img2" : "https://raw.githubusercontent.com/leverpo/leverpo.github.io/main/guide%20image/17.png",
